@@ -8,8 +8,8 @@ casper.start(url, function() {
 	casper.waitForSelector('form#formLogin', function() {
 		console.log("Filling login form ...")
 	    casper.fill('form#formLogin', {
-        	'password': credentials.password,
-        	'login':  credentials.login
+        	'password': password,
+        	'login':  login
     	}, true);
 	});
 });
