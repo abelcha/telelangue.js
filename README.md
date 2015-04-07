@@ -1,7 +1,7 @@
 > **Installation:**
 
+> - `git clone git@github.com:tovazm/telelangue.js && cd telelangue.js`
 > - Install [CasperJS](http://casperjs.org/)
-> - `$ git clone https://github.com/tovazm/telelangue.js && cd telelangue.js`
 > - Replace the login/password variables in [telelangue.js](telelangue.js#L3)
 
 > **Execution:**
