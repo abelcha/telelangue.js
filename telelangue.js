@@ -1,6 +1,7 @@
 var casper = require('casper').create();
 var url = "https://netplanning.telelangue.com/portal1/pages/login.jsp";
-var credentials = {login:"123456", password:"42424242"};
+var login = "123456";
+var password = "424242";
 
 casper.start(url, function() {
 	console.log("Getting homepage ...")
