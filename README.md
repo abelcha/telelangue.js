@@ -1,7 +1,7 @@
 > **Installation:**
 
 > - Install [CasperJS](http://casperjs.org/)
-> - Replace the login/password variables in [telelangue.js](telelangue.js)
+> - Replace the login/password variables in [telelangue.js](telelangue.js#L3)
 
 > **Execution:**
 
