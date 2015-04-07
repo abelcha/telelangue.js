@@ -10,5 +10,5 @@
 > `casperjs --ignore-ssl-errors=yes --ssl-protocol=any telelangue.js`
 > - Or use the script 
 > `./launch.sh 5`
-> (This will load 5 session of 10 minutes (50 minutes))
+> (This will load 5 session of 10 minutes => 50 minutes)
 	
