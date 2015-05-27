@@ -7,6 +7,7 @@
 > **Execution:**
 
 > - To do a 10 minute session:
+
 > `casperjs --ignore-ssl-errors=yes --ssl-protocol=any telelangue.js`
 > - Or use the script 
 > `./launch.sh 5`
